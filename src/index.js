@@ -18,3 +18,4 @@ import './js/test';
 
 console.log(object.text);
 object.printText('4 test');
+object.printText('5 test for commit');
